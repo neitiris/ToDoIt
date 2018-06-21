@@ -1,0 +1,53 @@
+
+html{
+	background-image: url(https://i1.wp.com/backgroundbest.com/wp-content/uploads/2018/04/4K-Wallpaper-Nature-7.jpg);
+	background-size: 100%;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+}
+body{
+	width: 60%;
+	margin: 0 auto;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+.topNav{
+	float: right;
+	height: 50px;
+	padding-top: 25px;
+}
+.topNav input{
+	height: 20px;
+}
+.topNav a{
+	padding-right: 20px;
+}
+.label{
+	float: left;
+	font-size: 40px;
+}
+.topRa{
+	float: right;
+	padding-top: 10px;
+	font-size: 20px;
+
+}
+.topRa a{
+	padding-right: 20px;
+}
+.clear{
+	clear: both;
+}
+.border{
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+}
+.veryBigLetters {
+	width: 50%;
+	float: right;
+	color: white;
+	font-size: 250%;
+}
