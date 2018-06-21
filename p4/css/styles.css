@@ -1,0 +1,87 @@
+body, html{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+a{
+	text-decoration: none;
+	color: white;
+	padding-right: 6px;
+}
+
+.top{
+	width: 100%;
+	height: 40px;
+	background: #124964;
+	color: white;
+	width: 95%;
+	margin:  auto;
+}
+.RT{
+	float: right;
+	padding-right: 15px;
+	margin-top: 10px; 
+
+}
+.lT{
+	float: left;
+	padding-left: 15px;
+	margin-top: 10px; 
+}
+.top2{
+	background: yellow;	
+	height: 150px;
+}
+
+.top2_left{
+	float: left;
+	padding-left: 30px;
+}
+.top2_right{
+	float: right;
+	padding-right: 30px;
+}
+.top2_right input{
+	height: 30px;
+	margin-top: 40px;
+}
+.top2_right input {
+  height: 2em;
+}
+
+ .top2_right input[name="q"] {
+  padding-right: 1.8em;
+}
+
+.top2_right input[type="image"] {
+	margin-top: 0; 
+  width: 1.2em;
+  position: relative;
+  left: -1.8em;
+  vertical-align: middle;
+}
+table{
+	background: yellow;
+}
+.container{
+	width: 90%;
+	height: 100%;
+	margin: 0 auto;
+}
+.clear{
+	clear: both;
+}
+.newsBlock{
+	width: 95%;
+	height: 500px;
+}
+.newsImg{
+	float: left;
+}
+.newsImg img{
+	height: 400px;
+	width: 600px;
+}
+.newsText{
+	float: left;
+}
