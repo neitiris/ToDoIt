@@ -10,8 +10,9 @@ html, body{
 	height: 66px;
 }
 .middle{
-	width: 85%;
+	width: 70%;
 	margin: 0 auto;
+	margin-top: 120px;
 }
 .bigA{
 	float: left;
@@ -26,12 +27,37 @@ html, body{
 .lUpBlock{
 	background: #2c333a;
 	height: 130px;
+	margin-bottom: 60px;
 }
 .right{
 	width: 18%;
 }
 .dBlock{
-	padding-right: 60px;
-	padding-left: 60px;
+	border-top: 0.02px solid gray;
 	font-size: 20px;
+}
+.dBlock, .toolBox{
+	width: 80%;
+	margin: 0 auto;
+}
+.toolTitle{
+    font-size: 40px;
+    margin: 0;
+}
+.subTitle{
+	font-size: 20px;
+    margin: 0;
+}
+.block33{
+	width: 33%;
+	float: left; 
+}
+.toolImg{
+	height: 200px;
+	width: 200px;
+	float: left;
+	display: inline;
+}
+.tooltext{
+	text-decoration: none;
 }
