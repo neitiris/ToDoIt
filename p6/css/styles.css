@@ -1,0 +1,41 @@
+*{
+	width: 85%;
+	margin: 0 auto;
+	background: #f6f3ec;
+}
+.top{
+	height: 50px;
+}
+.topnav{
+	display: inline;
+}
+a{
+		text-decoration: none;
+		font-size: 170%;
+		padding: 0 10px 10px;
+}
+.nav, .image ,.nav2{
+	float: left;
+	width: 33%;
+}
+.nav, .nav2{
+	margin-top: 50px; 
+}
+.middle{
+	border: 1px solid gray;
+}
+.picture{
+	border-right: 1px solid gray
+	padding: 10px;
+	float: left;
+}
+.picture img{
+	padding: 10px;
+    border-right: 1px solid;
+}
+
+
+}
+.clear{
+	clear: both;
+}
