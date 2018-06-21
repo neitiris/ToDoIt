@@ -1,0 +1,37 @@
+html, body{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	background: #f8f8f8;
+}
+.top{
+	background: #2c333a;
+	height: 66px;
+}
+.middle{
+	width: 85%;
+	margin: 0 auto;
+}
+.bigA{
+	float: left;
+}
+.rightTopMenu{
+	float: right;
+}
+.left{
+	width: 78%;
+	background: white;
+}
+.lUpBlock{
+	background: #2c333a;
+	height: 130px;
+}
+.right{
+	width: 18%;
+}
+.dBlock{
+	padding-right: 60px;
+	padding-left: 60px;
+	font-size: 20px;
+}
