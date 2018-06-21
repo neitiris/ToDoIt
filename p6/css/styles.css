@@ -3,6 +3,9 @@
 	margin: 0 auto;
 	background: #f6f3ec;
 }
+body, html{
+	width: 100%;
+}
 .top{
 	height: 50px;
 }
@@ -19,7 +22,7 @@ a{
 	width: 33%;
 }
 .nav, .nav2{
-	margin-top: 50px; 
+    margin: 50px auto;
 }
 .middle{
 	border: 1px solid gray;
@@ -41,7 +44,7 @@ a{
 }
 .rB1, .rB2{
 	float: left;
-	width: 21%;
+	width: 22%;
 	margin-left: 10px; 
 	height: 180px;
 }
@@ -49,7 +52,6 @@ a{
 	clear: both;
 }
 .bottom {
-    margin-top: 124px;
     width: 100%;
     height: 250px;
     background: #e0d9cb;
