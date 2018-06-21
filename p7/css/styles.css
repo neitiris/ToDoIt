@@ -5,6 +5,10 @@ html, body{
 	height: 100%;
 	background: #f8f8f8;
 }
+a{
+	color: white;
+	text-decoration: none;
+}
 .top{
 	background: #2c333a;
 	height: 66px;
@@ -16,16 +20,19 @@ html, body{
 }
 .bigA{
 	float: left;
+    font-size: 50px;
+    margin: 0 44px;
 }
 .rightTopMenu{
 	float: right;
+    margin: 20px;
 }
 .left{
 	width: 78%;
 	background: white;
 }
 .lUpBlock{
-	background: #2c333a;
+	background-image: url(https://www.affinitysm.com/wp-content/uploads/2010/07/forest-path-germany.jpg.653x0_q80_crop-smart.jpg);
 	height: 130px;
 	margin-bottom: 60px;
 }
