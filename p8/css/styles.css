@@ -61,7 +61,7 @@ a{
 }
 .block{
 	background: white;
-	height: 10000px;
+	height: 100%;
 }
 .bottom{
 	background: #79a0b7;
@@ -142,4 +142,22 @@ a{
 .n1{
 	width: 80%;
 	margin: 0 auto;
+}
+.c{
+	border-bottom: 1px solid gray;
+}
+.route1{
+	padding-bottom: 15px;
+	border-bottom: 1px solid gray;
+}
+.route2{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-bottom: 1px solid gray;
+}
+.socialA{
+	color: black;
+	padding-right: 20px;
+	font-size: 40px;
+
 }
