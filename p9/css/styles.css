@@ -1,0 +1,39 @@
+html{
+	width: 60%;
+	margin: 0 auto;
+}
+body{
+	padding-top: 30px;
+}
+li{
+
+}
+.lCol{
+	width: 10%;
+	float: left;
+}
+.rCol{
+	width: 896px;;
+	float: left;
+	background: yellow;
+}
+.image img{
+	width: 100%;
+}
+.ssilka{
+	top: 445px;
+    width: 100%;
+    background: #60beae;
+}
+ul{
+	margin-top: 0;
+}
+.oneOfFour {
+    float: left;
+    width: 25%;
+    list-style-type: none;
+    margin-left: 0
+}
+.clear{
+	clear: both;
+}
