@@ -110,3 +110,36 @@ a{
     margin: 12px 0 0 0;
     padding: 0 12px 12px 12px
 }
+.centerText{
+	font-style: italic;
+	padding-bottom: 30px;
+	border-bottom: 1px solid gray;
+	margin-bottom: 40px;
+}
+.center{
+	text-align: center;
+	margin: 0 auto;
+	width: 75%;
+	padding-top: 40px;
+	font-size: 20px;
+}
+.lColumn, .rColumn{
+	width: 50%;
+	float: left;
+}
+.twoColum{
+	border-bottom: 10px solid blue;
+	padding-bottom: 30px;
+}
+.lTitle{
+	text-align: center;
+	border-bottom: 1px solid gray;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	width: 80%;
+	margin: 0 auto;
+}
+.n1{
+	width: 80%;
+	margin: 0 auto;
+}
