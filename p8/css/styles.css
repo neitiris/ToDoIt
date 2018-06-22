@@ -49,5 +49,64 @@ a{
 	width: 50%;
 	float: right;
 	color: white;
-	font-size: 250%;
+	margin-bottom: 100px;
+}
+.veryBig {
+	font-size: 388%;
+	margin-bottom: 0;
+}
+.veryBigLetters a{
+	 color: black;
+	 font-size: 20px;
+}
+.block{
+	background: white;
+	height: 10000px;
+}
+.bottom{
+	background: #79a0b7;
+	height: 200px
+}
+.lBp{
+	background: black;
+	width: 100%;
+	float: left;
+	border: 1px solid gold;
+	text-align: center;
+}
+.title{
+	color: white;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid gold;
+}
+.leftUl{
+	height: 100%;
+	border-right: 1px solid gold;
+	float: left;
+	border-bottom: 10px solid brown;
+	    margin-bottom: 0;
+    padding-bottom: 15px;
+}
+.leftUl li{
+	width: 48%;
+    float: left;
+
+}
+.left{
+	width: 50%;
+	float: left;
+}
+.rightUl{
+	height: 100%;
+	border-bottom: 10px solid yellow;
+    float: left;
+    margin-bottom: 0;
+    padding-bottom: 15px;
+}
+.title{
+    border-bottom: 1px dotted #4e473a;
+    margin: 12px 0 0 0;
+    padding: 0 12px 12px 12px
 }
