@@ -4,12 +4,13 @@ html{
 }
 body{
 	padding-top: 30px;
+	background: rgb(239,248,247);
 }
 li{
-
+	list-style-type: none;
 }
 .lCol{
-	width: 10%;
+	width: 20%;
 	float: left;
 }
 .rCol{
@@ -31,9 +32,35 @@ ul{
 .oneOfFour {
     float: left;
     width: 25%;
-    list-style-type: none;
     margin-left: 0
 }
 .clear{
 	clear: both;
+}
+.bB{
+	width: 25%;
+	float: left;
+}
+.fCI{
+	height: 200px;
+	width: 200px;
+}
+.bottom{
+	padding-top: 30px;
+	margin-top: 30px;
+	border-top: 1px solid gray;
+	width: 100%;
+}
+.bRight{
+	float: right;
+}
+.bLeft{
+	float: left;
+}
+.bLeft li{
+	display: inline;
+}
+.bLeft ul{
+	margin: 0;
+	padding: 0;
 }
